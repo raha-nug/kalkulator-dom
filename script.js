@@ -7,7 +7,7 @@ function pushBtn(obj) {
         //Calculate
         input.innerHTML = eval(input.innerHTML)
 
-    }else if(pushed == "reset"){
+    }else if(pushed == "AC"){
         //All Clear
         input.innerHTML = ""
 
